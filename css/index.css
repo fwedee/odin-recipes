@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+
+.title {
+    background-color: aqua;
+    display: inline-block;
+}
+
+
+.list_center {
+    display: inline-block;
+    text-align: left;
+    font-size: x-large;
+}
+
+.links {
+    color: blueviolet;
+}
+
+
+#first_link {
+    color:aqua
+}
+
+#second_link {
+    color: aquamarine;
+}
+
+#third_link {
+    color: bisque;
+}
